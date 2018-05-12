@@ -1,0 +1,36 @@
+_repo: Jacko-and-Jumpo-Kinkytail--The-Funny-Monkey-Boys-_32334
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Wisa, Louis
+    gutenberg_agent_id: '8138'
+    url: http://www.gutenberg.org/2009/agents/8138
+covers:
+- cover_type: archival
+  image_path: 32334-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Garis, Howard Roger
+    aliases:
+    - Davidson, Marion
+    - Garis, Howard R.
+    birthdate: 1873
+    deathdate: 1962
+    gutenberg_agent_id: '808'
+    url: http://www.gutenberg.org/2009/agents/808
+    wikipedia: http://en.wikipedia.org/wiki/Howard_R._Garis
+description: ''
+gutenberg_issued: '2010-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32334'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Monkeys -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+title: Jacko and Jumpo Kinkytail (The Funny Monkey Boys)
+url: http://www.gutenberg.org/ebooks/32334
